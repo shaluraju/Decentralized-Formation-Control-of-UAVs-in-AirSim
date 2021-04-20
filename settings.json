@@ -1,0 +1,32 @@
+{
+  "SettingsVersion": 1.2,
+  "SimMode": "Multirotor",
+
+  "Vehicles": {
+    "UAV0": {
+      "VehicleType": "SimpleFlight",
+      "X": 12,
+      "Y": 12,
+      "Z": -10,
+      "Yaw": 0},
+    "UAV1": {
+      "VehicleType": "SimpleFlight",
+      "X": 10,
+      "Y": 12,
+      "Z": -10,
+      "Yaw": 0},
+    "UAV2": {
+      "VehicleType": "SimpleFlight",
+      "X": 8,
+      "Y": 12,
+      "Z": -10,
+      "Yaw": 0},
+    "UAV3": {
+      "VehicleType": "SimpleFlight",
+      "X": 6,
+      "Y": 12,
+      "Z": -10,
+      "Yaw": 0
+   }   
+  }
+}
