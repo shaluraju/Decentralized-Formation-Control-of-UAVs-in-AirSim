@@ -155,8 +155,7 @@ while (k<40):
     print("Current Position is: ", CurrentPos)        
     time.sleep(0.1)
     
-    for i in range(numUAV):
-        if i > 0: # not controlling the leader i.e UAV 1
+    for i in range(1,numUAV):
             shape_vector = SearchSqShape_Vectors(i)
             newposition =  CostFunction(CurrentPos[i],shape_vector)
             time.sleep(0.1)
