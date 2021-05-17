@@ -10,9 +10,10 @@ To run the Code, you need to install the following things:
 
 ## Following pictures shows the results:
 ### 1. Four Quadrotors took-off and are ready to receive the command 
-![image](https://user-images.githubusercontent.com/67613439/115151922-a8a23380-a08c-11eb-8b6e-28ded9c7929f.png)
+![image](https://user-images.githubusercontent.com/67613439/118525244-959e8400-b75c-11eb-9bdf-0f9c600fc607.png)
 
 
 ### 2. A Square Formation Command is given: Formation achieved using Decentralized Control approach 
-![image](https://user-images.githubusercontent.com/67613439/115152111-6cbb9e00-a08d-11eb-801c-50a98942ae54.png)
+![image](https://user-images.githubusercontent.com/67613439/118525279-9f27ec00-b75c-11eb-9d56-23738b833885.png)
+
  
