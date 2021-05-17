@@ -1,9 +1,9 @@
 # Simulation of Decentralized Formation Control in AirSim
 
-## Note:- This is an ongoing project hence, there will be frequent updates
+## **Note**:- This is an ongoing project hence, there will be frequent updates
 
 To run the Code, you need to install the following things:
-* [AirSim] (https://microsoft.github.io/AirSim/) 
+* [AirSim](https://microsoft.github.io/AirSim/) 
 * Unreal Engine 4
 * Visual Studio
 * Python API
