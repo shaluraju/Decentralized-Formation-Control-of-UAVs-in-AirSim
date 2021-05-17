@@ -8,10 +8,11 @@ To run the Code, you need to install the following things:
 * [Visual Studio](https://visualstudio.microsoft.com/downloads/)
 * [Python API](https://www.python.org/downloads/)
 
-### Following pictures shows the results 
+## Following pictures shows the results:
+### 1. Four Quadrotors took-off and are ready to receive the command 
 ![image](https://user-images.githubusercontent.com/67613439/115151922-a8a23380-a08c-11eb-8b6e-28ded9c7929f.png)
 
 
-### A Square Shaped Trajectory is achieved using Decentralized Control 
+### 2. A Square Formation Command is given: Formation achieved using Decentralized Control approach 
 ![image](https://user-images.githubusercontent.com/67613439/115152111-6cbb9e00-a08d-11eb-801c-50a98942ae54.png)
  
